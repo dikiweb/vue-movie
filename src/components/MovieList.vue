@@ -24,7 +24,7 @@
 
 <script>
 import { mapState } from 'vuex'
-import MovieItem from '~/components/movieItem'
+import MovieItem from '~/components/MovieItem'
 import Loader from '~/components/Loader'
 
 export default {
