@@ -1,5 +1,7 @@
+.vscode/
 .cache/
 .idea/
 node_modules/
 dist/
 .env
+cypress/videos/
